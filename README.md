@@ -15,7 +15,8 @@ application.
 2. Clone this repository
 
 3. Modify configuration:
-`./replace.sh "<your-domain.com>" "your-email@gmail-or-whatever.com"`
+        
+        ./replace.sh "<your-domain.com>" "<your-email@gmail-or-whatever.com>"
 
 4. Run the init script:
 
